@@ -1,0 +1,62 @@
+
+C.	C++ VIRTUAL FUNCTIONS – THIS POINTER
+D.	C++ VIRTUAL DESTRUCTORS – DYNAMIC BINDING
+https://github.com/Alagumani-S/ds-oop/blob/EX4/4ABCD
+
+5
+A.	STACK ADT
+B.	STACK APPLICATIONS
+C.	QUEUE ADT
+D.	QUEUE APPLICATIONS
+https://github.com/Alagumani-S/ds-oop/blob/ex5/5abcd
+
+6
+A.	SINGLY LINKED LIST
+B.	DOUBLY LINKED LIST
+C.	CIRCULAR LINKED LIST
+D.	POLYNOMIAL MANIPULATION
+https://github.com/Alagumani-S/ds-oop/blob/ex6/6abcd
+
+7
+A.	STACK USING LINKED LIST
+B.	STACK APPLICATIONS USING LINKED LIST
+C.	QUEUE USING LINKED LIST
+D.	QUEUE APPICATIONS USING LINKED LIST
+https://github.com/Alagumani-S/ds-oop/blob/ex7/7abcd
+
+8
+A.	TREE REPRESENTATION AND TRAVERSALS
+B.	BINARY SEARCH TREE
+C.	EXPRESSION TREE
+D.	AVL TREE
+https://github.com/Alagumani-S/ds-oop/blob/ex8/8abcd
+
+9
+A.	B TREE
+B.	B+ TREE
+C.	RED BLACK TREE
+D.	SPLAY TREE
+https://github.com/Alagumani-S/ds-oop/blob/ex9/9abcd
+
+10
+A.	REPRESENTATION OF GRAPH
+B.	BREADTH FIRST SEARCH-BFS
+C.	DEPTH FIRST SEARCH-DFS
+D.	TOPOLOGICAL SORT
+https://github.com/Alagumani-S/ds-oop/blob/ex10/10abcd
+
+11
+A.	PRIM'S MINIMUM SPANNING TREE
+B.	KRUSKAL'S MINIMUM SPANNING TREE
+C.	SHORTEST PATH - DIJKSTRA'S ALGORITHM
+D.	APPLICATIONS OF GRAPH
+https://github.com/Alagumani-S/ds-oop/blob/ex11/11abcd
+
+12
+A.	INSERTION SORT
+B.	QUICK SORT
+C.	MERGE SORT
+D.	BINARY SEARCH ALGORITHM
+https://github.com/Alagumani-S/ds-oop/blob/ex12/12abcd
+
+![image](https://github.com/user-attachments/assets/ada768f4-b563-4d04-8774-5c7ada4b83d2)
