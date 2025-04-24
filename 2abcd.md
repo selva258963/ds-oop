@@ -1,4 +1,4 @@
-# ds-oop
+# Ex 2
 
 ![image](https://github.com/user-attachments/assets/97830ac9-e73e-4aef-b3fb-5443cb00c1ca)
 
