@@ -1,4 +1,4 @@
-## EXNO: 2
+# EX NO: 2
 ![image](https://github.com/user-attachments/assets/6df91e18-db66-4396-8be2-988f4cd9a98f)
 ![image](https://github.com/user-attachments/assets/ab7c056d-3a3c-43ec-aadc-7cf73f95fdd6)
 ![image](https://github.com/user-attachments/assets/38cf9a30-73f5-4b5d-a2cc-08f30c65d7d2)
